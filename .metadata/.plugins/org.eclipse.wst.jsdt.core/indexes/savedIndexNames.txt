@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\su_vo\Hackerrank\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2378345653.index
+1666153530.index
+3552249894.index
+2454260227.index
+3184457314.index
+1289067099.index
